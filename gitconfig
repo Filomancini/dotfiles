@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = filippomancini@icloud.com
+	name = filippo mancini
